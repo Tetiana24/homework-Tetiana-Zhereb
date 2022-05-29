@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(234, 249, 234);
+}
+body{
+        font-size: 15px;
+        max-width: 450;
+        line-height: 17px;
+    }    
+body
+    ul{
+    text-align: justify;
+    }
+
+    p{
+        text-align: justify;
+    }
+    

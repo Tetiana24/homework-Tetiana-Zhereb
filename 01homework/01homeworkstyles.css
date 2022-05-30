@@ -14,4 +14,9 @@ body
     p{
         text-align: justify;
     }
+    .heads {
+        font-family: 'Dancing Script', cursive;
+        font-family: 'Tiro Telugu', serif;
+    }
+        
     

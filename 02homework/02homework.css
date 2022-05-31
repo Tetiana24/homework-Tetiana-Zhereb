@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(241, 238, 234);
+}
+
+.imag {
+    height: 200px;
+    width: 300px;
+    float: left;
+    margin: 10px 10px 10px 0px;
+    
+}
+
+.article {
+  font-size: large;
+  text-align: justify;
+ font-family: 'Times New Roman', Times, serif;
+
+}
+
+

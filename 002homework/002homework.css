@@ -1,8 +1,7 @@
 body {
     background-color: rgb(241, 238, 234);
 }
-
-
+ 
 
 .article {
   font-size: large;
@@ -20,4 +19,14 @@ body {
 
 a:visited {
     color: black;
+}
+
+#01h {
+    margin: 0px !important;
+    padding: 0px !important;
+}
+
+#01p {
+    margin: 0px !important;
+    padding: 0px !important;
 }

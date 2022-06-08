@@ -6,6 +6,7 @@ body {
 }
 
 .nav {
+    font-family: Inter;
     text-align: left;
     padding: 24px;
 }
@@ -35,6 +36,7 @@ body {
 }
 
 .text {
+    font-family: Inter;
     color: rgba(11, 34, 57, 1);
     text-align: left;
     padding: 24px;
@@ -43,6 +45,7 @@ body {
 
 .banner {
     position: absolute;
+    font-family: Inter;
     height: 1430px;
     width: 1488px;
 }

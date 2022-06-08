@@ -153,11 +153,11 @@ body {
 }
 
 .button3_0 {
-    position: absolute;
-    height: 36px;
-    width: 36.00000762939453px;
+    position:absolute;
     left: 16px;
     top: 18px;
+    height: 36px;
+    width: 36.00000762939453px;
     border-radius: 10px;
     padding: 8px;
     background: rgba(234, 76, 137, 0.1);

@@ -185,7 +185,7 @@ body {
     left: 419px;
     border-radius: 8px;
     padding: 4px, 10px, 4px, 10px;
-    border: rgba(13, 12, 34, 0.05);
+    border: none;
 
 }
 
@@ -198,7 +198,7 @@ body {
     top: 22px;
     border-radius: 8px;
     font-size: 12px;
-    border: rgba(234, 76, 137, 1);
+    border: none;
     color: rgba(255, 255, 255, 1);
 
 }
@@ -230,7 +230,7 @@ body {
     height: 28px;
     width: 49px;
     border-radius: 8px;
-    border: rgba(255, 255, 255, 1);
+    border: none;
     color: black;
     font-size: 12px;
 
@@ -315,7 +315,7 @@ body {
     height: 32px;
     width: 160px;
     border-radius: 6px;
-    border: rgba(234, 240, 244, 1);
+    border: none;
 }
 
 .button6_2 {
@@ -327,7 +327,7 @@ body {
     height: 32px;
     width: 160px;
     border-radius: 6px;
-    border: rgba(9, 179, 175, 1);
+    border: none;
     color: rgba(255, 255, 255, 1);
 
 }
@@ -386,7 +386,7 @@ font-size: 28px;
     height: 44px;
     width: 121px;
     border-radius: 43px;
-    border: rgba(74, 126, 255, 1); 
+    border: none;
     color: rgba(255, 255, 255, 1);
 
 
@@ -422,7 +422,7 @@ font-size: 28px;
     height: 17px;
     width: 95px;
     border-radius: nullpx;
-    border: rgba(102, 102, 255, 1);
+    border: none;
     box-sizing: border-box;
 }
 
@@ -438,7 +438,7 @@ font-size: 28px;
     width: 64px;
     left: 224px;
     border-radius: 4px;
-    border: rgba(102, 102, 255, 1);
+    border: none;
 }
 
 .block7_8 {

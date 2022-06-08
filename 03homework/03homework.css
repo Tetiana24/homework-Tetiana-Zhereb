@@ -146,16 +146,13 @@ body {
     height: 72px;
     width: 560px;
     border-radius: 0px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
     box-sizing: border-box;
 }
 
 .button3_0 {
     position:absolute;
-    left: 16px;
-    top: 18px;
+  top: 18px;
+  left: 16px;
     height: 36px;
     width: 36.00000762939453px;
     border-radius: 10px;
@@ -170,7 +167,7 @@ body {
 }
 
 .img3_1 {
-   position: absolute;
+   position: relative;
     top: 26px;
     left: 24px;
     border: none;

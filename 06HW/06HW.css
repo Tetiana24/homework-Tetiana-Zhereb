@@ -21,6 +21,10 @@ body {
     justify-content: space-between;
 }
 
+.header {
+    margin-top: 62px;
+}
+
 .container-direction {
     flex-direction: column;
 }

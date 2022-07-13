@@ -6,7 +6,7 @@ body {
     background: #F6F6F6;
     box-sizing: border-box; 
 
-    max-width: 1440px;
+    width: 1440px;
 }
 
 .container {
@@ -28,6 +28,8 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-between;
+
+    background: #FFFFFF;
 }
 
 .header__link {
@@ -39,6 +41,14 @@ body {
 }
 
 .header__nav {
+    width: 100%;
+    background: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header__nav--box {
     width: 558px;
 
     display: flex;
@@ -52,6 +62,8 @@ body {
     font-weight: 400;
     font-size: 28px;
     line-height: 37px;
+
+    background: #FFFFFF;
 }
 
 .header__nav__text-red {

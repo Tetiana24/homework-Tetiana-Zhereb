@@ -21,9 +21,9 @@ body {
 }
 
 .header__content {
-    width: 100%;
+    /* width: 1439px; */
     height: 73px;
-    display: grid;
+    /* display: grid; */
 
     display: flex;
     align-items: center;

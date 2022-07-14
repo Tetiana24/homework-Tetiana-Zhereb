@@ -1,0 +1,37 @@
+@media screen and (min-width: 720px) {
+    .container {
+        width: 640px;
+    }
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    margin: 0 auto;
+    width: 320px;
+}
+
+.buttons {
+    display: flex;
+    justify-content: space-between;
+    background-color: 
+    
+}
+
+.button {
+    width: 145.69px;
+    height: 44px;
+    background-color: #000000;
+    border-radius: 6px;
+    color: white;
+    
+}
+
+.hero__section {
+    height: 600px;
+
+}
+

@@ -27,7 +27,7 @@ body {
 }
 
 
-/* .box:nth-last-of-type(n+4) {
+ .box:nth-last-of-type(n+4) {
     background-color: rgba(255, 0, 0, 0.72);
 }
 
@@ -45,9 +45,9 @@ body {
 
 .box:last-of-type {
     background-color:rgba(0, 0, 255, 0.68);
-} */
+} 
 
-.box:last-of-type {
+/* .box:last-of-type {
     background-color:rgba(0, 0, 255, 0.68);
 } 
 
@@ -65,7 +65,7 @@ body {
 
 .box:nth-child(4n-1) {
     background-color:rgba(255, 0, 0, 0.72); 
-}
+} */
    
 .button{
     position: relative;
